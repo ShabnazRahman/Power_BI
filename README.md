@@ -20,3 +20,7 @@ Sales Performance Dashboard (Power BI)
 ​📈 Future Enhancements
 ​Integration of predictive forecasting for the Electronics category.
 ​Deep-dive analysis into why Clothing sales are underperforming to develop a recovery strategy.
+
+
+<img width="794" height="494" alt="image" src="https://github.com/user-attachments/assets/3013a9cf-d4d9-4d7b-b931-a5a9e21761db" />
+This is an analysis based on the bike sales task and this shows the highest profit by country is United States with over 55k and the lowest profit by Country is United Kingdom with just under 5k. 
